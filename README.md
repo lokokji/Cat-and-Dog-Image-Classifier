@@ -1,0 +1,1 @@
+Cat and Dog Image Classifier adalah model pembelajaran mesin yang dirancang untuk mengklasifikasikan gambar sebagai kucing atau anjing. Model ini biasanya dibangun menggunakan deep learning, khususnya dengan Convolutional Neural Networks (CNNs), karena CNN sangat efektif dalam mengenali pola visual seperti tekstur, bentuk, dan fitur khas dari objek dalam gambar.
